@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Million Dollar Riches WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="MillionDollarRiches" enableFreeSpin="Y" clientversion="1.0" gameId="300-2200-0" />
+	<GameClient name="Million Dollar Riches WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="MillionDollarRiches" enableFreeSpin="Y" clientversion="1.0" gameId="300-2200-0" />
+	<GameClient name="Million Dollar Riches WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="MillionDollarRiches" enableFreeSpin="Y" clientversion="1.0" gameId="300-2200-0" />
+</ClientConfig>
